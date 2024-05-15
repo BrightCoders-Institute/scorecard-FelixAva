@@ -83,12 +83,12 @@ skills:
 
   toolset:
     - name: Javascript
-      level: 40%
+      level: 20%
       level-name: Novice
       time: 6 months
 
     - name: Typecript
-      level: 40%
+      level: 20%
       level-name: Novice
       time: 8 months
 
