@@ -41,9 +41,6 @@ sidebar:
     - item: Effective communication
       link: # dejar en blanco
 
-    - item: Active
-      link: # dejar en blanco
-
     - item: Logical Thinking
       link: # dejar en blanco
 
@@ -51,7 +48,7 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-     As a Computer Systems Engineering student with a deep passion for technology and programming, I have a keen interest in robotics, IoT, artificial intelligence, and their applications in various fields such as agriculture. As an autodidact programmer, I have a love for learning and consistently seek to improve my skills by staying up to date with industry best practices and logical thinking. I am proactive, diligent, and thrive in collaborative environments, where I can share my knowledge and learn from others. My passion for technology stems from my belief that it has the potential to make us better individuals, coworkers, and productive members of society. As a future Senior Developer, I am looking for an innovative company here in Mexico, where I can leverage my creativity and problem-solving skills to make an impact in people's lives.
+     
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
   - degree: Bachelor Degree
