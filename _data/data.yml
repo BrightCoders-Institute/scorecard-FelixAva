@@ -28,14 +28,14 @@ sidebar:
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: B1 Intermediete  # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: B1 Intermediate  # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
-    - item: Growth Mindset
+    - item: Open-mindedness
       link: # dejar en blanco
 
     - item: Effective communication
@@ -44,10 +44,13 @@ sidebar:
     - item: Logical Thinking
       link: # dejar en blanco
 
+    - item: Problem solving
+      link: # dejar en blanco
+
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
-  summary: |
+  summary: I'm a Software Engineering student, currently studing at University of Colima. I am appasionte by the Frontend development, also I like to learn Backend development. My strengths are development with Typescript, HTML and CSS and React Native. My current level of English is intermediate B1 and increasing. 
      
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
@@ -85,14 +88,25 @@ skills:
       time: 6 months
 
     - name: Typecript
+      level: 40%
+      level-name: Advanced beginner
+      time: 8 months
+
+    - name: React Native
       level: 20%
       level-name: Novice
-      time: 8 months
+      time: 4 months
+
+    - name: HTML, CSS
+      level: 40%
+      level-name: Advanced beginner
+      time: 7 months
 
     - name: Git
       level: 20%
       level-name: Novice
       time: 4 months
+
 
 # NO MODIFICAR
 footer: >
